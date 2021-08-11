@@ -32,3 +32,13 @@ body{
 .center {
     text-align: center;
 }
+footer {
+    left: 1%;
+    bottom: 1%;
+    position: fixed;
+}
+.footer-link {
+    color: #f4a261;
+    font-weight: bold;
+    transition: all 0.2s;
+}
