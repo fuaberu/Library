@@ -15,8 +15,8 @@ body{
     left: 0;
     right: 0;
     bottom: 0;
-    max-width: 200px;
-    margin: auto auto 50vh auto;
+    max-width: 300px;
+    margin: auto auto  auto;
     height: fit-content;
     text-align: left;
     background-color: white;
